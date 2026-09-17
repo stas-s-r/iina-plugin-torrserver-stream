@@ -65,7 +65,7 @@ ssh -L 8090:127.0.0.1:8090 user@nas-ip
 
 ### Способ 1: Установка через готовый архив `.iinaplgz` (One-Click)
 
-1. Перейдите на страницу [GitHub Releases](https://github.com/username/iina-plugin-torrserver-stream/releases).
+1. Перейдите на страницу [GitHub Releases](https://github.com/stas-s-r/iina-plugin-torrserver-stream/blob/main/iina-plugin-torrserver-stream/torrserver-stream.iinaplgz).
 2. Скачайте файл **`torrserver-stream.iinaplgz`**.
 3. Дважды кликните по загруженному файлу в Finder.
 4. В появившемся диалоговом окне IINA нажмите **«Установить»** (Install).
