@@ -1,0 +1,26 @@
+{
+  "name": "iina-plugin-torrserver-stream",
+  "version": "1.0.0",
+  "description": "Stream torrent videos directly into IINA via TorrServer with in-memory caching and instant playback",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "package": "node scripts/package.js",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "iina",
+    "iina-plugin",
+    "torrserver",
+    "torrent",
+    "stream",
+    "video",
+    "macos",
+    "mpv"
+  ],
+  "author": "Antigravity",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}
